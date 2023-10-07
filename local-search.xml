@@ -5,10 +5,10 @@
   
   <entry>
     <title></title>
-    <link href="/2023/10/05/ml/"/>
-    <url>/2023/10/05/ml/</url>
+    <link href="/2023/10/05/ml-li%20mu/"/>
+    <url>/2023/10/05/ml-li%20mu/</url>
     
-    <content type="html"><![CDATA[<hr><h2 id="standford-ml"><a href="#standford-ml" class="headerlink" title="standford ml"></a>standford ml</h2><p>抓取数据<br> 成本：使用云上的机器 存储<br> 法律问题<br>数据标注<br>  半监督学习<br>    self-traning<br>  众包<br>    active learning<br>  weak supervision<br>     data programing</p>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="standford-ml"><a href="#standford-ml" class="headerlink" title="standford ml"></a>standford ml</h2><p><strong>抓取数据</strong><br>  成本：使用云上的机器 存储<br> 法律问题<br><strong>数据标注</strong><br>  半监督学习<br>    self-traning<br>  众包<br>    active learning<br>  weak supervision<br>     data programing<br><strong>EDA</strong><br>  探索值、分布，清理噪音数据<br>  探索数据类型，转换成正确的数据类型<br>  探索数据间的联系<br>  各种画图方法<br> <strong>数据清理</strong><br> outlier<br> rule-based detection<br> pattern-based detection<br> <strong>数据变形</strong><br> normalization–&gt;value<br> downsamping cropping –&gt;image<br> clipping –&gt;video<br> 词根化–&gt;text<br> <strong>特征工程</strong><br> one-hot</p>]]></content>
     
     
     
